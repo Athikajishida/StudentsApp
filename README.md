@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<img width="544" alt="Screenshot 2023-12-08 at 2 50 21 PM" src="https://github.com/Athikajishida/StudentsApp/assets/150222146/5d9254eb-0e7d-49ed-9ad1-fbf471ed0da5">
